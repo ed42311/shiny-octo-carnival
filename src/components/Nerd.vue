@@ -30,7 +30,7 @@ export default {
   data() {
     return {
       msg: 'Welcome Team!',
-      team: team,
+      team,
     };
   },
 };
